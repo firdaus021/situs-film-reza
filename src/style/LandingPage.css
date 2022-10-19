@@ -1,0 +1,43 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/background/mencuriraden.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.trending {
+    height: auto;
+    background: black;
+    background-size: cover;
+}
+
+.film {
+    height: auto;
+    background: black;
+    background-size: cover;
+}
+
+.movieWrapper{
+
+}
+
+.movieImage {
+    height: auto;
+    background-color:black;
+    margin: 5px;
+    padding:5px;
+}
